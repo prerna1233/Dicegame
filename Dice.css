@@ -1,0 +1,46 @@
+*{
+    background-color: rgb(242, 137, 155);
+}
+
+.body{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+   
+
+}
+
+.container{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 50px;
+    margin-top: 70px;
+}
+
+.player{
+    font-weight: bold;
+}
+
+#roll-button {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    font-size: 16px;
+    height: 40px;
+    width: 200px;
+    cursor: pointer;
+    text-align: center; 
+   
+}
+
+
+#dice1{
+    height:300px ;
+    width: 300px;
+}
+
+#dice2{
+    height:300px ;
+    width: 300px;
+}
